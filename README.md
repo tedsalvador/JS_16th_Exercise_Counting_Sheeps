@@ -1,4 +1,4 @@
-# JS_15th_Exercise_Array_Plus_Array
+# JS_16th_Exercise_Counting_Sheeps
 Javascript - Contar Ovejas
 
 # Solucion:
